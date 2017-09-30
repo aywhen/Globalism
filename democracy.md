@@ -1,4 +1,5 @@
 # 民主执政
+![democracy-diagram](democracy.png)
 
 由普民执政和代表执政并存的执政模式，实现真正意义的民主执政。
 
